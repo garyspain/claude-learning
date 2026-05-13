@@ -34,3 +34,6 @@ claude-learning/
 
 ## Progreso
 🟢 Día 1 — Repo creado
+🟢 Día 2 — Claude Code instalado
+🟢 Día 3 — Claude 101 completado, conectores activos, Claude Code CLI funcionando
+⏳ Día 4 — Prompt Engineering Interactive Tutorial
